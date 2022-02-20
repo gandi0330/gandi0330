@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gandi0330/gandi0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
