@@ -48,6 +48,6 @@ Baekjoon Online Judge (solved.ac)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gandi0330)
 
-[포트폴리오 정현명.pdf](https://github.com/gandi0330/gandi0330/files/9700124/default.pdf)
+[포트폴리오 정현명](https://github.com/gandi0330/gandi0330/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%A0%95%ED%98%84%EB%AA%85.pdf)
 
 
