@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - Department of Electronics and Computer Engineering
 - Majored in Computer Engineering (BS)
 - gj-aischool (2021.06 ~ 2021.12)
-- Samsung Software Academy For Youth 7th (2022.01 ~ )
+- Samsung Software Academy For Youth 7th (2022.01 ~ 11)
+- Lotte Innovate System Management (2023.11.21 ~ )
 
 ---
 
